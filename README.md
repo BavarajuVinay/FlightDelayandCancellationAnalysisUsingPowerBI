@@ -35,7 +35,7 @@ A Stacked Column chart categorizing delays into ranges (e.g., 0–15 mins, 16–
 
 
 ### Flight-Cancellation-Analysis 
-![GitHub logo](Cancellation_Analysis.jpeg)
+![GitHub logo](Cancellation_Analysis.jpg)
 
 
 ### Flight Cancellation Analysis Dashboard
